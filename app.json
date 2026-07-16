@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Cook Timer",
+    "slug": "cook-timer-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#f7eadf"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f7eadf"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
