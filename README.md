@@ -1,4 +1,4 @@
-# Cook Timer Mobile
+# SIMMER
 
 An Expo-based mobile cooking timer with:
 
